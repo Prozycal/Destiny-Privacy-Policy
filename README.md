@@ -11,7 +11,7 @@ This may include your discord user id, name, discriminator and avatar. Beside th
 we are only storing data that is directly provided by the user. This may include message data, webhook data and uploaded files.
 
 ## WHY DO WE NEED THIS DATA?
-The data is required for the proper functioning of the bot features like Welcome System, autoroles and Moderation etc...
+The data is required for the proper functioning of the bot features.
 without the data our bot will not able to perform good activities and making the features inaccessible for users
 
 ## USERS RESPONSIBILITY
